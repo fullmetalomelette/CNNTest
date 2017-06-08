@@ -1,4 +1,4 @@
-# CNN Image Tutorial
+# CNN Image Training Using Olivetti faces dataset and MXNET
 
 # Install MXNET
 install.packages("drat", repos="https://cran.rstudio.com")
